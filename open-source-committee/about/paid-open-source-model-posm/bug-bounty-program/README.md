@@ -8,6 +8,14 @@ description: >-
 # 🫢 Bug Bounty Program
 
 {% hint style="info" %}
+The Bug Bounty Program has currently used all of its allocated funds, and we are unable to offer monetary rewards for new vulnerability submissions at this time.&#x20;
+
+We continue to strongly encourage members of the community to submit vulnerability reports through our standard channels — every submission is carefully reviewed and triaged by our security team, and valid findings will be addressed accordingly.&#x20;
+
+We appreciate the community's continued diligence in helping keep the ecosystem secure, and will provide an update if and when additional funding becomes available.
+{% endhint %}
+
+{% hint style="info" %}
 Changes 3 August: Updates about Bug Bounty Program funding and ongoing vulnerability reporting.&#x20;
 {% endhint %}
 
