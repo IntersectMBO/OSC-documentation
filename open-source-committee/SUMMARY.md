@@ -50,6 +50,7 @@
     * [Tx Pipe Contract - GitHoney](about/paid-open-source-model-posm/bug-bounty-program/tx-pipe-contract-githoney.md)
   * [🫣 Incident Monitoring](about/paid-open-source-model-posm/incident-monitoring/README.md)
     * [Interview Summary](about/paid-open-source-model-posm/incident-monitoring/interview-summary.md)
+    * [Security Incident Officer Mid-Year Report](about/paid-open-source-model-posm/incident-monitoring/security-incident-officer-mid-year-report.md)
   * [😎 Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
   * [🤯 Accelerator Program](about/paid-open-source-model-posm/accelerator-program.md)
   * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events/README.md)
