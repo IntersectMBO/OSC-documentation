@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Open Source Committee
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect - Open Source Committee
+      path: open-source-committee
+      default: true
+      content:
+        directory: ./open-source-committee
