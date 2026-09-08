@@ -1,6 +1,6 @@
 # 😎 (12/04/2025) Meeting Minutes
 
-## Attendees:&#x20;
+## Attendees:
 
 | Name                     | Attendance | Role      | Voting Seat (Y/N) | Term         |
 | ------------------------ | ---------- | --------- | ----------------- | ------------ |
@@ -22,8 +22,6 @@ Community/Other Attendees
 * Dan Baruka
 * Emmanuel Titi
 * Uche Obasi
-
-
 
 **Recording:** [Open Source Committee (Intersect) - 2025/12/04 - Recording](https://drive.google.com/file/d/1zD4olh7Tl_XnlZnGIzFizVvwKs8NXLaU/view?usp=sharing)
 
@@ -65,7 +63,7 @@ Decisions
 * **AI Policy Working Group Closure:** The AI Policy Working Group was closed due to inactivity, with the provision that it can be reopened later.
 * **Smart Contract Working Group Status:** It was decided not to close the Smart Contract Working Group, as Elaine volunteered to lead the effort to stand up a standards body.
 * **Maintainer Retainer Candidate Acceptance:** Four candidates who had completed the initial interviews were accepted and moved forward to the Project Team Interview stage.
-* **Maintainer Retainer Founder Track Process:** The requirement for a Project Team Interview was excluded for founders of community projects applying via the founder track, streamlining their process.&#x20;
+* **Maintainer Retainer Founder Track Process:** The requirement for a Project Team Interview was excluded for founders of community projects applying via the founder track, streamlining their process.
 
 Actions
 
@@ -81,7 +79,7 @@ Actions
 
 Polls
 
-![](<../../../.gitbook/assets/unknown (1) (1) (1).png>)
+![](<../../../.gitbook/assets/unknown (4).png>)
 
 | Topic                                     | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Notes                                                                                                                                                                                                |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -54,7 +54,7 @@ When accepted into incubation, projects receive:
 
 ### Review Process
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * **Initial Screening:** OSC Chair/Secretary confirm completeness of submission.
   * If a submission is incomplete or not aligned with criteria, the project may receive a summary decline. Applicants are encouraged to reapply once missing information is provided, or after six months if the project has since met the requirements.
@@ -114,6 +114,3 @@ Whether your project is an early prototype or a growing open-source initiative, 
 
 📌 **Take the next step — bring your vision into the Cardano ecosystem.**\
 👉 [Apply to the Incubation Program](https://forms.clickup.com/9015279944/f/8cnmga8-36715/66ELL3D8626W65USTY)
-
-
-

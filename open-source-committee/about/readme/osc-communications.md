@@ -1,9 +1,7 @@
 # OSC Communications
 
-
-
 {% hint style="info" %}
-The Open Source Committee Comms Overview can be found [here](https://docs.google.com/presentation/d/1jcprNN0hQj-aWdk6llX9eLxZzc1dEERT4V9O4AmbaXs/edit?usp=sharing), and is detailed below.&#x20;
+The Open Source Committee Comms Overview can be found [here](https://docs.google.com/presentation/d/1jcprNN0hQj-aWdk6llX9eLxZzc1dEERT4V9O4AmbaXs/edit?usp=sharing), and is detailed below.
 {% endhint %}
 
 The Open Source Office and Open Source Committee at Intersect is a welcoming hub for the Cardano community. We connect members, businesses, and developers of all levels to collaborate, learn, and build on Cardano.
@@ -17,7 +15,7 @@ We connect the Cardano community through our website, social media, events, and 
 3. Promoting Trust: Ensuring open communication and shared ownership to foster trust and collaboration.
 4. Expanding Reach: Leveraging global contributions to enhance our projects with diverse perspectives and expertise.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The Open Source Office (OSO) and OSC aims to foster collaboration, transparency, and community engagement through effective communication. We are utilizing LinkedIn, Discord, Twitter, and YouTube to reach and engage with our community and stakeholders.
 
@@ -25,7 +23,7 @@ The Open Source Office (OSO) and OSC aims to foster collaboration, transparency,
 
 1. Engage Community: Build and maintain active participation from contributors, users, and enthusiasts.
 2. Promote Transparency: Ensure open and transparent communication about projects, progress, and decisions.
-3. Expand Reach: Grow the OSO's & OSC’s visibility and influence in the open-source community.&#x20;
+3. Expand Reach: Grow the OSO's & OSC’s visibility and influence in the open-source community.
 4. Authenticity: Build trust by being open and honest with our work, empathy, and sharing of cowboy culture.
 
 ### Communication Channels:

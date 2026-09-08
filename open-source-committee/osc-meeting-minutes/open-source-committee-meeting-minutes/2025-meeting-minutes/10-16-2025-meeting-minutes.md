@@ -1,6 +1,6 @@
 # 😎 (10/16/2025) Meeting Minutes
 
-## Attendees:&#x20;
+## Attendees:
 
 | Name                     | Attendance | Role      | Voting Seat (Y/N) | Term         |
 | ------------------------ | ---------- | --------- | ----------------- | ------------ |
@@ -25,8 +25,6 @@ Community/Other Attendees
 * Minh Bui
 * Uche Obasi
 
-
-
 **Recording:** [Open Source Committee (Intersect) - 2025/10/16 - Recording](https://drive.google.com/file/d/1DIvdbWWr8VfEGOoIhhn924rZ8NN-FunH/view?usp=sharing)
 
 **Transcript:** [Open Source Committee (Intersect) - 2025/10/16 - Transcript](https://docs.google.com/document/d/15j5WI4s-bTwRpG2VcXpj7g4wNRLK8heY9aaZ02KXI5I/edit?usp=sharing)
@@ -44,7 +42,7 @@ Community/Other Attendees
 **Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering Committee and Open Source Committee.\
 **Lucas:** 45B.io(SMB onboarding)\
 **Sebastian:** OSC, Gimbalabs, contributor, Andamio co-founder.\
-**Philip:** tbd&#x20;
+**Philip:** tbd
 
 ## Agenda 10.16.25
 
@@ -61,7 +59,7 @@ Community/Other Attendees
 
 ## Decisions/Actions
 
-![](<../../../.gitbook/assets/unknown (1) (1) (1) (1) (1).png>)\
+![](<../../../.gitbook/assets/unknown (6).png>)\
 [Open Source Committee (Intersect) - 2025/10/16 07:56 CDT - Polls](https://docs.google.com/spreadsheets/d/1lq-FgalwpdaTpJtMy5rQybDiM8YDS1581AT7-LMlekE/edit?usp=sharing)
 
 Decisions

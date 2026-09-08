@@ -68,7 +68,7 @@ Community/Other Attendees
 * Approved the Closure of the Bug Bounty Program (under OSC funding): The Committee decided to formally close out the Bug Bounty program for the 2025 Treasury funding cycle due to exhausted funds, with future management transitioning to Intersect directly.<br>
 *
 
-    <img src="../../../.gitbook/assets/unknown (5).png" alt="" height="265" width="606">
+    <img src="../../../.gitbook/assets/unknown (9).png" alt="" height="265" width="606">
 
 **Actions**
 

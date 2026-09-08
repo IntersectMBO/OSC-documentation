@@ -1,6 +1,6 @@
 # (02/05/2026) Meeting Minutes
 
-## Attendees:&#x20;
+## Attendees:
 
 | Name                     | Attendance | Role       | Voting Seat (Y/N) | Term         |
 | ------------------------ | ---------- | ---------- | ----------------- | ------------ |
@@ -24,8 +24,6 @@ Community/Other Attendees
 * Harun Mwangi
 * Robert Hever
 * Uche Obasi
-
-
 
 **Recording:** [Open Source Committee (Intersect) - 2026/02/05 - Recording](https://drive.google.com/file/d/132YWo28xOGBh2XFQujwXT2ImErZLbW4T/view?usp=sharing)
 
@@ -70,7 +68,7 @@ Community/Other Attendees
 * **Maintainer Retainer Report:** The committee approved the interview report for the first cohort of eight selected maintainers.
 * **Accelerator Strategy:** Consensus was reached to use a consolidated partnership with Chinstrap and STORM Partners to deliver the accelerator program within the current budget.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **Actions**
 

@@ -43,7 +43,7 @@ This approach allows me to:
 
 By aligning my infrastructure with production-used versions, I increase confidence in identifying issues before they propagate at the network level.
 
-![](<../../../.gitbook/assets/unknown (7).png>)
+![](<../../../.gitbook/assets/unknown (11).png>)
 
 ### Real-Time Alerting & Incident Awareness
 

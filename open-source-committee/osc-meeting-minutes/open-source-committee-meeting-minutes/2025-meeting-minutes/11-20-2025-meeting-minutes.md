@@ -1,6 +1,6 @@
 # 🙃 (11/20/2025) Meeting Minutes
 
-## Attendees:&#x20;
+## Attendees:
 
 | Name                     | Attendance | Role      | Voting Seat (Y/N) | Term         |
 | ------------------------ | ---------- | --------- | ----------------- | ------------ |
@@ -28,13 +28,11 @@ Community/Other Attendees
 * Marcin Szamotulski
 * Uche Obasi
 
-
-
 **Recording:** [Open Source Committee (Intersect) - 2025/11/20 - Recording](https://drive.google.com/file/d/19tQcEAPnVonVBYkiq8_3XAIGasosmYnT/view?usp=sharing)
 
 **Transcript:** [Open Source Committee (Intersect) - 2025/11/20 - Transcript](https://docs.google.com/document/d/1sfq0LLvpx4j_yBzWNgCWuaIvrO5uDT007na7cdaRW70/edit?usp=sharing)
 
-**Chat Transcript:** [Open Source Committee Meeting – 2025/11/20 – Chat Transcript](https://drive.google.com/file/d/1QxqXYIkeGnVhLtq69dGD28Kw6Tdju0MC/view?usp=sharing)&#x20;
+**Chat Transcript:** [Open Source Committee Meeting – 2025/11/20 – Chat Transcript](https://drive.google.com/file/d/1QxqXYIkeGnVhLtq69dGD28Kw6Tdju0MC/view?usp=sharing)
 
 **Polls:** [Open Source Committee (Intersect) - 2025/11/20 - Polls](https://docs.google.com/spreadsheets/d/1fIuY-1m-iE6ybpL4_HHM0mREn2jo9It91Bppy5jX9Ds/edit?usp=sharing)
 
@@ -49,7 +47,7 @@ Georg: Bitergia\
 **Jordan:** TBD\
 **Reshma:** TBD\
 **Sebastian:** OSC, Gimbalabs, contributor, Andamio co-founder.\
-**Philip:** TBD \
+**Philip:** TBD\
 **Udai:** TBD
 
 ## Agenda 11.20.25
@@ -86,7 +84,7 @@ Actions
 
 **Polls**
 
-![](<../../../.gitbook/assets/unknown (1) (1).png>)
+![](<../../../.gitbook/assets/unknown (3).png>)
 
 | Topic                                  | Discussion                                                                                                                                                                                                                                                                                                                                     | Notes                                                                                                                                                                                         |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

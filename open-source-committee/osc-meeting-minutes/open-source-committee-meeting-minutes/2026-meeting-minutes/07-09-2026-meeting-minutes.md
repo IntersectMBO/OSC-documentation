@@ -63,7 +63,7 @@ Community/Other Attendees
 * **Midnight Setup:** Denied (5 No, 2 Abstain).
 *
 
-    <div align="left"><img src="../../../.gitbook/assets/unknown (3).png" alt="" width="188"> <figure><img src="../../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="left"><img src="../../../.gitbook/assets/unknown (7).png" alt="" width="188"> <figure><img src="../../../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure></div>
 
 Actions
 

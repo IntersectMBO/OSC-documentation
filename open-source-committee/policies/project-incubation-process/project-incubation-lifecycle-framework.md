@@ -1,6 +1,6 @@
 # 😋 Project Incubation Lifecycle Framework
 
-INTERSECT&#x20;
+INTERSECT
 
 Project Lifecycle Framework
 
@@ -14,7 +14,7 @@ As Cardano’s journey in the Voltaire era continues, the Open Source Committee�
 
 ## General Context
 
-This document defines and details the Intersect’s Project Lifecycle Framework. It is specifically developed to implement the strategic directives outlined in the Open Source Strategy adopted by OSC on June 7, 2024.&#x20;
+This document defines and details the Intersect’s Project Lifecycle Framework. It is specifically developed to implement the strategic directives outlined in the Open Source Strategy adopted by OSC on June 7, 2024.
 
 This framework introduces a structured approach for projects, from inception to potential sunset. Each stage of a project’s lifecycle — Incubation, Growth, Maturity, Decline, and Abandonment — is aimed to be aligned with Cardano’s commitment to open source development, technological excellence, and community empowerment.
 
@@ -23,8 +23,6 @@ The development of this lifecycle framework is a response to the need for a dyna
 By referencing the strategic pillars outlined in the OSC’s Strategy for Cardano Open Source initiatives, this framework ensures consistency in approach and alignment with Cardano's mission and vision. It offers a detailed, action-oriented guide that complements the strategic document, focusing on the practical aspects of project management, monitoring, and evolution within a structured lifecycle context.
 
 In essence, the Project Lifecycle Framework is designed to operationalize the strategic insights from the OSC strategy document, providing a clear, actionable path for managing the lifecycle of projects. It embodies our commitment to fostering sustainable project development and ensuring that every initiative under the Cardano umbrella is equipped to thrive in an ever-changing technological landscape.
-
-
 
 ## Summary
 
@@ -55,15 +53,12 @@ This is the initial phase of a project, characterized by setting up the foundati
    1. workshops with stakeholders
    2. SWOT analysis to understand strengths, weaknesses, opportunities, threats\
       <br>
-2.  Community formation - develop community guidelines, set up communication platforms (like Matrix/Discord channels), and actively engage with early users and contributors
-
-    1. community engagement
-    2. introductory webinars, Q\&A sessions.
-
-
+2. Community formation - develop community guidelines, set up communication platforms (like Matrix/Discord channels), and actively engage with early users and contributors
+   1. community engagement
+   2. introductory webinars, Q\&A sessions.
 3. Build technical foundation - start with a solid technical setup, including a well-structured code repository, basic documentation, and initial testing frameworks.
    1. version control, CI/CD tools
-   2. security framework - Security Council spinning up.&#x20;
+   2. security framework - Security Council spinning up.
    3. basic documentation tools - contributing guide vs wiki, etc
    4. architecture help and/or boilerplate\
       <br>
@@ -81,8 +76,6 @@ This is the initial phase of a project, characterized by setting up the foundati
 **Metrics:** number of active contributors, frequency of code commits, community engagement levels, completion of roadmap milestones.
 
 **Regular review:** schedule monthly reviews to assess progress against the roadmap and adjust plans as necessary based on feedback and initial outcomes.
-
-
 
 ## Growth
 
@@ -122,8 +115,6 @@ Growth stage is characterized by a significant increase in activity around the p
 * **Metrics:** growth in contributor and user base, response times to community inquiries, uptime and performance metrics, frequency and impact of new releases.
 * **Regular review:** conduct quarterly reviews to evaluate the effectiveness of scaling efforts, infrastructure upgrades, and community engagement strategies
 
-
-
 ## Maturity and Maintenance
 
 Continuing from Growth, the next critical phase in the Project Lifecycle Framework is the Maturity stage. This stage is characterized by the project having established a stable and active community, a solid technical foundation, and achieving broad recognition in the industry.
@@ -148,20 +139,11 @@ At this stage, the project is well-established, with stable releases, a loyal us
 ### Actions
 
 1. Continuous improvement and innovation - keep the project technologically relevant and innovative, integrating new trends and feedback.
-
-
-
 2. Sustain community and contributor engagement - iImplement programs to recognize contributions, provide continuous learning opportunities, and keep the community engaged
    1. annual community events
    2. contributor rewards programs (contributor of the year/month)<br>
 3. Conflict resolution mechanisms - develop and refine conflict resolution strategies to handle disputes and disagreements within the community effectively
-
-
-
 4. Long-term viability planning - plan for future challenges and opportunities to ensure the project remains viable and relevant
-
-
-
 5. Leadership and succession planning - develop a clear succession plan for key project leaders to ensure continuity and stability
    1. leadership development programs
    2. mentoring and shadowing
@@ -196,17 +178,8 @@ In this stage, the project experiences a decrease in active contributors, slowin
 ### Actions
 
 1. Conduct a thorough assessment - analyze the reasons behind the project's decline, including technological assessments, competitor analysis, and community feedback
-
-
-
 2. Revitalization initiatives - depending on the assessment, implement initiatives aiming for project revitalization: rebranding, integrating new technologies, or pivoting project goals
-
-
-
 3. Plan for sunset transition - iIf revitalization is not possible, plan for a structured sunset of the project that considers the needs of current users and the community
-
-
-
 4. Preserve legacy and knowledge - ensure that the valuable outputs of the project (e.g documentation, codebase) are preserved and remain accessible to benefit future projects or historical reference.<br>
 
 ### Monitoring and Evaluation
@@ -221,8 +194,6 @@ Imagine a project in the field of DeFi that has entered the Decline stage due to
 * Hosting a series of community brainstorming sessions to explore potential new directions for the project
 * Developing a partnership with educational institutions to use the project as a teaching tool, providing a new avenue for utilization
 * Creating a detailed archive of the project’s development history and major achievements to serve as a resource for future developers
-
-
 
 ## Archive
 
@@ -248,20 +219,9 @@ The Archive stage occurs when a project is officially retired or abandoned. This
 ### Actions
 
 1. Communicate decisions transparently - clearly communicate the decision to abandon the project to all stakeholders, explaining the reasons and outlining the next steps
-
-
-
 2. Communicate the project's achievements - compile and publish documentation of the project’s history, key achievements, and impact.
-
-
-
-3. Preserve code / repos - ensure that all code, documentation, and other resources are archived in an accessible format for future reference&#x20;
-
-
-
+3. Preserve code / repos - ensure that all code, documentation, and other resources are archived in an accessible format for future reference
 4. Celebrate the project - organize an event or create content to celebrate the achievements of the project and its community, acknowledging the contributions of everyone involved
-
-
 
 ### Monitoring and Evaluation
 
@@ -276,10 +236,8 @@ An example could be a scenario where a project focused on a specific framework i
 * Collaborating with a technology education nonprofit to preserve the project’s outputs as educational materials
 * Setting up an open archive of all project materials, ensuring that the knowledge isn't lost.
 
-
-
 By thoughtfully managing the Abandonment stage, the project can conclude on a positive note, ensuring its contributions are recognized, and the community is respectfully transitioned to new opportunities. This careful closure not only respects the legacy of the project but also maintains trust and goodwill among the Cardano’s watchers.
 
 <br>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
